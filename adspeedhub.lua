@@ -1,3 +1,4 @@
+-- All Credit its Speed Hub Nigga i just found it nigga nub - Ancestral
 local ScreenGui = Instance.new("ScreenGui")
 local AdFrame = Instance.new("Frame")
 local DiscordLabel = Instance.new("TextLabel")
