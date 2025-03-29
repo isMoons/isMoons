@@ -284,7 +284,7 @@ Than_Hub["20"]["AnchorPoint"] = Vector2.new(0, 0.5);
 Than_Hub["20"]["Size"] = UDim2.new(0, 80, 0, 17);
 Than_Hub["20"]["Visible"] = false;
 Than_Hub["20"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-Than_Hub["20"]["Text"] = [[Ancestral]];
+Than_Hub["20"]["Text"] = [[Than Hub]];
 Than_Hub["20"]["Name"] = [[Title]];
 Than_Hub["20"]["Position"] = UDim2.new(0, 55, 0, 29);
 
@@ -1943,7 +1943,7 @@ Than_Hub["d5"]["BackgroundTransparency"] = 1;
 Than_Hub["d5"]["AnchorPoint"] = Vector2.new(0, 0.5);
 Than_Hub["d5"]["Size"] = UDim2.new(0, 70, 0, 15);
 Than_Hub["d5"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-Than_Hub["d5"]["Text"] = [[Than Hub];
+Than_Hub["d5"]["Text"] = [[Ancestral];
 Than_Hub["d5"]["Name"] = [[Title]];
 Than_Hub["d5"]["Position"] = UDim2.new(0, 53, 0, 21);
 
