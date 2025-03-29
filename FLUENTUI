@@ -20,7 +20,7 @@ local Than_Hub = {};
 Than_Hub["1"] = Instance.new("ScreenGui", game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui"));
 Than_Hub["1"]["IgnoreGuiInset"] = true;
 Than_Hub["1"]["ScreenInsets"] = Enum.ScreenInsets.DeviceSafeInsets;
-Than_Hub["1"]["Name"] = [[Ancestral]];
+Than_Hub["1"]["Name"] = [[Than Hub]];
 Than_Hub["1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling;
 
 
